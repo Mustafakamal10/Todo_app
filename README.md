@@ -1,4 +1,3 @@
-
 # Todo App
  A simple and responsive Todo App built using HTML, CSS, and JavaScript.
 This project helps users add, delete, and manage daily tasks easily.
